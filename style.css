@@ -1,0 +1,16 @@
+body{
+    background-image: url("CarRacer.gif");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+h1,h2,h3,h5,h4
+{
+	color: white !important;
+}
